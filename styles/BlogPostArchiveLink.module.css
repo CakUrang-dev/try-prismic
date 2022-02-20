@@ -1,0 +1,10 @@
+.post {
+  padding: 0 2rem;
+  font-size: 1.6rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.post a {
+  color: rgb(88, 88, 230);
+}
